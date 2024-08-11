@@ -11,7 +11,7 @@ export default function ChatUser() {
         <div className=' h-[10vh] flex space-x-3 items-center justify-center bg-gray-800 hover:bg-gray-700 duration-300'>
             <div className={`avatar ${isOnline ? "online" : ""}`}>
                 <div className="w-16 rounded-full">
-                  <img src="/Dp.jpg" alt="profile img" srcset="" />
+                  <img src="/Dp.jpg" alt=" img" srcset="" />
                 </div>
             </div>
             <div >
